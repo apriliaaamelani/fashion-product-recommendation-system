@@ -90,10 +90,8 @@ Repository ini mengimplementasikan beberapa fitur utama, antara lain:
 fashion-product-recommendation-system
 │
 ├── README.md
-├── README_ENG.md
 ├── recommendation_system.py
 ├── recommendation_system.ipynb
-├── requirements.txt
 │
 ├── dataset/
 │   └── fashion_products.csv
