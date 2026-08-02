@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Collaborative-SVD-red" />
   <img src="https://img.shields.io/badge/Scikit--Learn-Latest-F7931E?logo=scikitlearn" />
   <img src="https://img.shields.io/badge/Surprise-Recommendation-blueviolet" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
 </p>
 
 ---
